@@ -1,6 +1,6 @@
 # AI-Email-analyzer-priority-router-zapier
 An AI-powered Zapier workflow that analyzes incoming Gmail messages, logs email data to Google Sheets, routes high-priority emails to Trello, and automatically sends personalized welcome emails.
-# 🤖 AI Email Analyzer & Priority Router
+#  AI Email Analyzer & Priority Router
 
 > An AI-powered Zapier automation that reads incoming emails, uses an AI Agent to analyze and classify them, logs every email to a spreadsheet, and automatically routes high-priority emails into a Trello task board with an instant acknowledgment reply — all without manual triage.
 
@@ -11,7 +11,7 @@ An AI-powered Zapier workflow that analyzes incoming Gmail messages, logs email 
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Workflow Diagram](#-workflow-diagram)
@@ -29,7 +29,7 @@ An AI-powered Zapier workflow that analyzes incoming Gmail messages, logs email 
 
 ---
 
-## 🧭 Project Overview
+##  Project Overview
 
 Manually reading and triaging every incoming email wastes time and creates a real risk of urgent messages getting buried in a crowded inbox. **AI Email Analyzer & Priority Router** solves this by combining Zapier's automation engine with an AI Agent step to intelligently read, understand, and act on every new email automatically.
 
@@ -46,7 +46,7 @@ The result is a **zero-touch email triage system** — a practical example of ho
 
 ---
 
-## 🗺️ Workflow Diagram
+##  Workflow Diagram
 
 ```mermaid
 flowchart TD
@@ -62,7 +62,7 @@ A full step-by-step breakdown with rationale for each node is available in [`doc
 
 ---
 
-## ✨ Features
+##  Features
 
 - **AI-Powered Email Understanding** — Uses Zapier's built-in AI Agent to read and interpret email content instead of relying on rigid keyword rules.
 - **Automatic Prioritization** — Classifies each email so only genuinely urgent items reach the team's task board.
@@ -75,7 +75,7 @@ A full step-by-step breakdown with rationale for each node is available in [`doc
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Tool / Service | Role in Workflow |
 |---|---|
@@ -88,7 +88,7 @@ A full step-by-step breakdown with rationale for each node is available in [`doc
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 ai-email-analyzer-priority-router/
@@ -108,7 +108,7 @@ ai-email-analyzer-priority-router/
 
 ---
 
-## ⚙️ Setup Guide
+##  Setup Guide
 
 Follow these steps to recreate this automation in your own Zapier account.
 
@@ -171,7 +171,7 @@ Follow these steps to recreate this automation in your own Zapier account.
 
 ---
 
-## 💼 Use Cases
+##  Use Cases
 
 - **Customer Support Teams** — Automatically flag and route urgent customer complaints to a support task board.
 - **Freelancers & Consultants** — Never miss a high-value client inquiry buried among newsletters and low-priority mail.
@@ -181,7 +181,7 @@ Follow these steps to recreate this automation in your own Zapier account.
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 Screenshots of the live Zap configuration, AI Agent prompt setup, and sample outputs (Google Sheets log, Trello card, and acknowledgment email) are organized in the [`screenshots/`](screenshots/) folder.
 
@@ -198,7 +198,7 @@ Screenshots of the live Zap configuration, AI Agent prompt setup, and sample out
 
 ---
 
-## 🩺 Troubleshooting
+##  Troubleshooting
 
 | Issue | Likely Cause | Solution |
 |---|---|---|
@@ -212,7 +212,7 @@ Screenshots of the live Zap configuration, AI Agent prompt setup, and sample out
 
 ---
 
-## ✅ Best Practices
+##  Best Practices
 
 - **Write specific AI prompts.** The more precisely you define categories and priority levels in the AI Agent prompt, the more consistent the classification will be.
 - **Standardize output values.** Force the AI to return fixed values (e.g., exactly `High`, `Medium`, `Low`) so the Filter step works reliably.
@@ -224,28 +224,27 @@ Screenshots of the live Zap configuration, AI Agent prompt setup, and sample out
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, suggestions, and improvements are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to propose changes, report issues, or suggest new features for this automation.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE) — feel free to use, modify, and adapt this workflow for your own projects.
 
 ---
+Author
 
-## 👤 Author
-
-**Rocky**
+AI smart galaxy (https://aismartgalaxy.com/)
 Automation Builder | Zapier & AI-Powered Workflow Enthusiast
 
 This project is part of an ongoing portfolio of no-code and AI-powered automation projects, showcasing practical business use cases built with Zapier — from beginner-level integrations to advanced, AI-driven, multi-step workflows.
 
-- 💼 Open to freelance automation projects and collaborations
+ Open to freelance automation projects and collaborations
 - 🔗 Feel free to connect for questions, feedback, or automation consulting
 
 ---
 
-⭐ **If you found this project useful or inspiring, consider starring the repository!**
+ **If you found this project useful or inspiring, consider starring the repository!**
