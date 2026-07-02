@@ -1,5 +1,4 @@
-# AI-Email-analyzer-priority-router-zapier
-An AI-powered Zapier workflow that analyzes incoming Gmail messages, logs email data to Google Sheets, routes high-priority emails to Trello, and automatically sends personalized welcome emails.
+
 #  AI Email Analyzer & Priority Router
 
 > An AI-powered Zapier automation that reads incoming emails, uses an AI Agent to analyze and classify them, logs every email to a spreadsheet, and automatically routes high-priority emails into a Trello task board with an instant acknowledgment reply — all without manual triage.
